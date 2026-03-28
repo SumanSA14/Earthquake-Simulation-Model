@@ -105,11 +105,16 @@ Earthquake-Simulation-Model
 5. The system evaluates performance metrics such as response efficiency.
 
 ---
+Technologies Used
+Python
+Operating System Scheduling Algorithms
+Simulation Modeling
+Data Analysis
+Applications
 
-# Installation
+This project can be useful for:
 
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/earthquake-simulation-model.git
-cd earthquake-simulation-modelInstall required dependencies:
+Disaster management planning
+Emergency response optimization
+Simulation of real-time crisis management
+Educational demonstration of OS scheduling algorithms
